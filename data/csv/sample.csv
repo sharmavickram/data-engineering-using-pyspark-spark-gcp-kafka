@@ -1,0 +1,15 @@
+DEPARTMENT_ID,DEPARTMENT_NAME,MANAGER_ID,LOCATION_ID
+10,Administration,200,1700
+20,Marketing,201,1800
+30,,114,
+40,Human Resources,203,2400
+50,Shipping,121,1500
+60,IT,103,
+70,Public Relations,204,2700
+80,Sales,145,2500
+90,Executive,100,
+100,Finance,108,1700
+110,,205,
+120,Treasury,,
+130,,,1700
+140,Control And Credit,,1700
