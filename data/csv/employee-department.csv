@@ -1,0 +1,51 @@
+First_Name,Last_Name,Hire_Date,Job,Salary,Commission_Percent,Manager,Department
+Steven,King,10/10/2009,President,"24,000",,,ACCOUNTING
+Neena,Kochhar,1/15/2012,Administration Vice President,"17,000",,Steven,RESEARCH
+Lex,De Haan,5/9/2015,Administration Vice President,"17,000",,Steven,SALES
+Alexander,Hunold,4/28/2012,Programmer,"9,000",,Lex,SALES
+Bruce,Ernst,9/13/2013,Programmer,"6,000",,Alexander,SALES
+David,Austin,10/19/2019,Programmer,"4,800",,Alexander,SALES
+Valli,Pataballa,5/31/2020,Programmer,"4,800",,Alexander,SALES
+Diana,Lorentz,6/2/2021,Programmer,"4,200",,Alexander,SALES
+Nancy,Greenberg,12/10/2016,Finance Manager,"12,000",,Neena,ACCOUNTING
+Daniel,Faviet,12/9/2016,Accountant,"9,000",,Nancy,RESEARCH
+John,Chen,1/22/2020,Accountant,"8,200",,Nancy,RESEARCH
+Ismael,Sciarra,1/24/2020,Accountant,"7,700",,Nancy,RESEARCH
+Jose Manuel,Urman,6/30/2020,Accountant,"7,800",,Nancy,RESEARCH
+Luis,Popp,4/1/2022,Accountant,"6,900",,Nancy,ACCOUNTING
+Den,Raphaely,4/1/2017,Purchasing Manager,"11,000",,Steven,ACCOUNTING
+Alexander,Khoo,9/10/2017,Purchasing Clerk,"3,100",,Den,RESEARCH
+Shelli,Baida,4/18/2020,Purchasing Clerk,"2,900",,Den,SALES
+Sigal,Tobias,11/17/2019,Purchasing Clerk,"2,800",,Den,SALES
+Guy,Himuro,3/10/2021,Purchasing Clerk,"2,600",,Den,SALES
+Karen,Colmenares,12/3/2021,Purchasing Clerk,"2,500",,Den,SALES
+Matthew,Weiss,11/11/2018,Stock Manager,"8,000",,Steven,SALES
+Adam,Fripp,8/4/2019,Stock Manager,"8,200",,Steven,SALES
+Payam,Kaufling,8/24/2017,Stock Manager,"7,900",,Steven,ACCOUNTING
+Shanta,Vollman,2/3/2020,Stock Manager,"6,500",,Steven,RESEARCH
+Kevin,Mourgos,3/11/2022,Stock Manager,"5,800",,Steven,RESEARCH
+Julia,Nayer,11/9/2019,Stock Clerk,"3,200",,Matthew,RESEARCH
+Irene,Mikkilineni,1/21/2021,Stock Clerk,"2,700",,Matthew,RESEARCH
+James,Landry,5/9/2021,Stock Clerk,"2,400",,Matthew,ACCOUNTING
+Steven,Markle,7/2/2022,Stock Clerk,"2,200",,Matthew,ACCOUNTING
+Laura,Bissot,12/14/2019,Stock Clerk,"3,300",,Adam,RESEARCH
+Mozhe,Atkinson,2/23/2020,Stock Clerk,"2,800",,Adam,SALES
+James,Marlow,6/12/2019,Stock Clerk,"2,500",,Adam,SALES
+TJ,Olson,8/3/2021,Stock Clerk,"2,100",,Adam,SALES
+Jason,Mallin,10/8/2018,Stock Clerk,"3,300",,Payam,SALES
+Michael,Rogers,12/19/2020,Stock Clerk,"2,900",,Payam,SALES
+Ki,Gee,4/6/2022,Stock Clerk,"2,400",,Payam,SALES
+Hazel,Philtanker,6/1/2022,Stock Clerk,"2,200",,Payam,ACCOUNTING
+Renske,Ladwig,11/6/2017,Stock Clerk,"3,600",,Shanta,RESEARCH
+Stephen,Stiles,2/19/2020,Stock Clerk,"3,200",,Shanta,RESEARCH
+John,Seo,6/7/2020,Stock Clerk,"2,700",,Shanta,RESEARCH
+Joshua,Patel,7/30/2020,Stock Clerk,"2,500",,Shanta,RESEARCH
+Trenna,Rajs,2/9/2018,Stock Clerk,"3,500",,Kevin,ACCOUNTING
+Curtis,Davies,5/25/2019,Stock Clerk,"3,100",,Kevin,ACCOUNTING
+Randall,Matos,7/8/2020,Stock Clerk,"2,600",,Kevin,RESEARCH
+Peter,Vargas,11/1/2020,Stock Clerk,"2,500",,Kevin,SALES
+John,Russell,1/25/2019,Sales Manager,"14,000",0.4,Steven,SALES
+Karen,Partners,5/1/2019,Sales Manager,"13,500",0.3,Steven,SALES
+Alberto,Errazuriz,7/4/2019,Sales Manager,"12,000",0.3,Steven,SALES
+Gerald,Cambrault,2/7/2022,Sales Manager,"11,000",0.3,Steven,SALES
+Eleni,Zlotkey,5/24/2022,Sales Manager,"10,500",0.2,Steven,SALES
